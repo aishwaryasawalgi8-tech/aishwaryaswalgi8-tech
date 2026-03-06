@@ -1,1 +1,6 @@
-# aishwaryaswalgi8-tech
+Hello 👋 
+I'm Aishwarya 
+Studying Engineering 
+at PDACEK 
+Branch ECE
+
